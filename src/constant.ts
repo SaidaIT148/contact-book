@@ -38,4 +38,11 @@ export const initialData: Array<contactdto> = [
     edit: false,
     relation: RELATION_TYPES[3],
   },
+  {
+    name: "Shiva",
+    mail: "ramanujan.p@gmail.com",
+    phonenumber: "9618868135",
+    edit: false,
+    relation: RELATION_TYPES[3],
+  },
 ];
